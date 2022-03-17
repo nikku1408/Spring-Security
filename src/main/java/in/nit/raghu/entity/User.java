@@ -20,7 +20,7 @@ public class User {
 	private String name;
 	private String username;
 	private String password;
-	/* For roles */
+	/* For making changes for no reasons */
 	@ElementCollection
 	private List<String> roles;
 }
